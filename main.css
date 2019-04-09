@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 16px; }
+
+body {
+  font-family: 'Ubuntu', sans-serif; }
+
+.header {
+  padding: 2rem;
+  background-color: #2c4762;
+  color: #fff; }
+  .header .heading {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: 500; }
+
+.avatar-container .profile-name {
+  margin: 1rem 0;
+  font-size: 2rem; }
+
+.content-wrap {
+  margin: 1rem 0;
+  font-size: 1rem; }
+
+/*# sourceMappingURL=main.css.map */
